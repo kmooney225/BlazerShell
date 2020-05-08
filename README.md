@@ -13,24 +13,24 @@ class and the lab assignments made.
 ### Getting Started
 ##### Prerequisites/dependencies
 
-    -You need all of the files provided in the repository, as well as a basic 
-    -understanding of how to compile on a linux system
+    - You need all of the files provided in the repository, as well as a basic 
+    - understanding of how to compile on a linux system
  
 ##### Instructions for building the software
 
-    -1. you will need to clone or download repository to linux system
-    -2. you will have to search for the myprog.c and the blazersh.c file in the
+    - 1. you will need to clone or download repository to linux system
+    - 2. you will have to search for the myprog.c and the blazersh.c file in the
     "CS433HW1" directory
-    -3. to compile, you will need to use "gcc -Wall -o myprog myprog.c" and "gcc
+    - 3. to compile, you will need to use "gcc -Wall -o myprog myprog.c" and "gcc
     -lreadline -o blazersh blazersh.c"
-    -4. after compiling, you can type ./blazersh to run the program, or you can
+    - 4. after compiling, you can type ./blazersh to run the program, or you can
     use ./a.out
  
 
 ### Running The Test
 ##### How to run test cases
 
-    -you can use the commands provided with the shell (use "help" for 
+    - you can use the commands provided with the shell (use "help" for 
     descriptions of functions)
 
 
