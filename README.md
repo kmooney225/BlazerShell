@@ -32,7 +32,7 @@ class and the lab assignments made.
 ### Running The Test
 ##### How to run test cases
 
-    - you can use the commands provided with the shell (use "help" for 
+- you can use the commands provided with the shell (use "help" for 
     descriptions of functions)
 
 
