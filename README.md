@@ -1,5 +1,7 @@
 # BlazerShell!
 
+![blazersh](https://user-images.githubusercontent.com/37048222/81452878-aed62300-914d-11ea-802e-626eaa7cdfc9.PNG)
+
 ## Author: Kevin Mooney
 
 ### Project Description
@@ -13,17 +15,17 @@ class and the lab assignments made.
 ### Getting Started
 ##### Prerequisites/dependencies
 
-    - You need all of the files provided in the repository, as well as a basic 
-    - understanding of how to compile on a linux system
+- You need all of the files provided in the repository, as well as a basic 
+- understanding of how to compile on a linux system
  
 ##### Instructions for building the software
 
-    - 1. you will need to clone or download repository to linux system
-    - 2. you will have to search for the myprog.c and the blazersh.c file in the
+- 1. you will need to clone or download repository to linux system
+- 2. you will have to search for the myprog.c and the blazersh.c file in the
     "CS433HW1" directory
-    - 3. to compile, you will need to use "gcc -Wall -o myprog myprog.c" and "gcc
+- 3. to compile, you will need to use "gcc -Wall -o myprog myprog.c" and "gcc
     -lreadline -o blazersh blazersh.c"
-    - 4. after compiling, you can type ./blazersh to run the program, or you can
+- 4. after compiling, you can type ./blazersh to run the program, or you can
     use ./a.out
  
 
