@@ -22,7 +22,7 @@ class and the lab assignments made.
 
 - 1. you will need to clone or download repository to linux system
 - 2. you will have to search for the myprog.c and the blazersh.c file in the
-    "CS433HW1" directory
+    "Blazershell" directory
 - 3. to compile, you will need to use "gcc -Wall -o myprog myprog.c" and "gcc
     -lreadline -o blazersh blazersh.c"
 - 4. after compiling, you can type ./blazersh to run the program, or you can
